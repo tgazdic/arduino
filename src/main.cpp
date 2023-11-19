@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-int IN1 = 1;
+int IN1 = 2;
 
 void setup() 
 {
